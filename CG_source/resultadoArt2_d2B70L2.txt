@@ -1,0 +1,6 @@
+/home/marcelo/TCC/tcc/InstanciasSinteticas2/br70L2/synthenticGraph_v1000_d11_l3_br70-1.dat
+/home/marcelo/TCC/tcc/InstanciasSinteticas2/br70L2/synthenticGraph_v100_d11_l3_br70-1.dat LB= 2, LR= 2 Blue Vertices(31): Red Vertices(39): Objective Function Value = 20 Accuracy: 86.67 Time: 0.050697 second(s).
+/home/marcelo/TCC/tcc/InstanciasSinteticas2/br70L2/synthenticGraph_v200_d11_l3_br70-1.dat LB= 2, LR= 2 Blue Vertices(68): Red Vertices(72): Objective Function Value = 68 Accuracy: 95.00 Time: 1.1051 second(s).
+/home/marcelo/TCC/tcc/InstanciasSinteticas2/br70L2/synthenticGraph_v300_d11_l3_br70-1.dat LB= 2, LR= 2 Blue Vertices(105): Red Vertices(105): Objective Function Value = 76 Accuracy: 88.89 Time: 4.1542 second(s).
+/home/marcelo/TCC/tcc/InstanciasSinteticas2/br70L2/synthenticGraph_v400_d11_l3_br70-1.dat LB= 2, LR= 2 Blue Vertices(136): Red Vertices(144): Objective Function Value = 136 Accuracy: 89.17 Time: 19.43 second(s).
+/home/marcelo/TCC/tcc/InstanciasSinteticas2/br70L2/synthenticGraph_v500_d11_l3_br70-1.dat LB= 2, LR= 2 Blue Vertices(177): Red Vertices(173): Objective Function Value = 173 Accuracy: 91.33 Time: 59.737 second(s).
